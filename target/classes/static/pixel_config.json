@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pixel-apps-paroquia-sao-roque",
+  "private_key_id": "1ad51db3885f22fa726358ac00435643d4c65752",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCx2SYNbQ19tS4S\nWusxe8qhddz7V20f5erV59rsyAYXgogPm+Az/IZ24UGoJHzn3gHia1kuSOjlg054\nrWg93ieMehJhKS1vNOlBGO54Gb9Y0Z95rkPSwhKjBqJKcpBGfsmgb3DTOTKknEX5\nb4g31dHQoBHsc5NPggAv524XSggycJ2+UtnZ8Ct77V1Ai12+XQBvBv2/JHebI0m5\n2am+fBS3TtQS0qiua9cb5Mqr7U6uL5golRTvmqrODH41pW5Qg5d3Ps8UrDad80mi\nXXFqj0cEVR1y+j6f5mQFeOdE6Jg90+mOb1dFTz7eO9c/UV2v75NFZk21+e2G3wbQ\nmY4F5Fg3AgMBAAECggEAJoywlFlugrCKh30AnO29ysiu+SYGp9Lg17PVftyOgXsQ\nPf3mF66lgNAruKQMFQBIvUjSgFdacCFJmZvQzBRC007EfB3+VKwN4UfjrNG76acq\nX6g32E+r1X2DIQr7HeSulKGDPa2YvhiHjF0yFBQ7UfLYX73fkOzXWIrcEJ1B8Jie\nKGyqnZTAqdLOV4BrpE2/47DRGHRramlAC0qiQHc28wR192KxTrMyK58mwIyEoGO9\nrHZXvDnY+YKyNswy9zy7a/vhIYACKDtMilTTYdenDXvcZvYOMWt4sYnWD0hbv0qM\n+irYxeGd/LlpF1L1zYE8alryMpGMA/Lhknd053E66QKBgQD0LlUuOet2FSQ5waoj\ncd83HVnDwzSLyU4DxTKe7A/gB1WYrh3HkB85Kw4xlMqHcf+KDhtSsskgQHXUoRSk\n5tIOTYXT47wOUXR19FvAtKBTxOO32XLCQtniZ9oYXFjbFp8Pg5dnWHtikHY9E9WG\nQPInOINlZbG6V7Pm8I2cz2sTyQKBgQC6dOGVayM5G6WbXfWZHP1NBNuNxxuZDSfm\ntoMiX7WbjqLPyqiYLfWqxCGDrXa3wa6blYhzkud8x0fAqmQLXx7ZdiUf0keA13LW\nf2f+IrxW7fiA99W7JAbfZdXQ7wYHiGzm3En3pKCuyP5dAHBw24o0fUcq20i4lg/y\nvB7yqlIL/wKBgQCl1IGM71D11M3RW7EMeV06tPgtdvjMpl4ROW9zdqYhY1nCYx1e\nVoad8JunGIGjEsyVGZd8xmbJPH3JdcvrYcbuZ7+nc1ZX8wHAyb82VHU97s0oIslJ\nHNWUaSs4uB6wS+CiTKAaU4EYIzvppvqwPpM2B69UwYe+IanQATZrdIIn4QKBgQCz\nI5qcSOv1cSeCBxrweVavyav7IkHUoTwlwFJrExNTmg24oBes5fMylu8wKNd3osDU\nQC1yBMEdNAUvCUXHWyMzgPwX/5qtIdH2XUAXfV4AEvB/UB1riCiGN7ve2dasJBml\nEB6MrAGpC/i+d66P741v8rEObtIGbj5yUuVU9eiQFwKBgCZWwYqAdwfuzonREOnf\nMGTouon9Fa9RhZZXM48Dm93r+4Mn/tt7X2xg3XaH5bUL7fvfIsycso+BIvU8J589\nO3dCarJv5zb4HOl5kOroIFjK7/rxrJ2padL8nxIs2xSSjlScTg46vRGtQknrYy2q\n5nQrun+4OwDedNmRsjUqvVdV\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-e14ct@pixel-apps-paroquia-sao-roque.iam.gserviceaccount.com",
+  "client_id": "107200509732541248896",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-e14ct%40pixel-apps-paroquia-sao-roque.iam.gserviceaccount.com"
+}
