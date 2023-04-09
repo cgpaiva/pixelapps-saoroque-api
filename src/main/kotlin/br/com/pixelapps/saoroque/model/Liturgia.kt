@@ -1,21 +1,26 @@
 package br.com.pixelapps.saoroque.model
 
+import com.google.gson.annotations.SerializedName
+
 data class Liturgia(
         val corLiturgica: String,
-        val evangelho: String,
-        val evangelhoTitulo: String,
-        val leituras: List<Leitura>,
         val liturgiaTitulo: String,
-        val salmo: String,
-        val salmoTitulo: String
+        val liturgia: List<LiturgiaData>,
 ) {
-    constructor() : this("", "", "", emptyList(), "", "", "")
+    constructor() : this("", "", emptyList())
 }
 
-data class Leitura(
-        val leitura: String,
-        val livroLeitura: String,
-        val tituloLeitura: String
+data class LiturgiaData(
+        @SerializedName("liturgia")
+        val liturgia: String,
+        @SerializedName("liturgiaPosicao")
+        val liturgiaPosicao: Int,
+        @SerializedName("liturgiaTipo")
+        val liturgiaTipo: String,
+        @SerializedName("liturgiaTitulo")
+        val liturgiaTitulo: String,
+        @SerializedName("menuTitulo")
+        val menuTitulo: String
 ) {
-    constructor() : this("", "", "")
+    constructor() : this("",1,"", "", "")
 }
